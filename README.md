@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Sourav!
 
-<!--
-**sourav-learning/sourav-learning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Experienced Software Engineer | Java Specialist | 20+ Years in the IT Industry
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+- 🌟 **20+ years of experience** in software development, specializing in Java and enterprise solutions.
+- 🚀 Passionate about building scalable, high-performance applications.
+- 🏢 Currently working at IBM Consulting, leading projects in Spring boot microservices and using copilot generated code extensively.
+
+---
+
+### 💼 Skills
+
+- **Languages**: Java, SQL
+- **Frameworks**: Spring Boot, Hibernate, Struts
+- **Tools**: Maven, Jenkins
+- **Databases**: MySQL, Oracle, DB2, Marklogic
+- **Other**: REST APIs, Microservices, Cloud (AWS), Copilot
+
+---
+
+### 🏆 Achievements
+
+- 🚀 Successfully led more than 5 projects as lead engineer and Technical Project Manager.
+  
+
+---
+
+### 📫 Connect with Me
+
+- [LinkedIn](www.linkedin.com/in/sourav-kumar-chatterjee-866b5452)
+- [Email](mailto:souravk.chatterjee@gmail.com)
