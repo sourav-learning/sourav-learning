@@ -18,7 +18,7 @@ Experienced Software Engineer | Java Specialist | 20+ Years in the IT Industry
 - **Frameworks**: Spring Boot, Hibernate, Struts
 - **Tools**: Maven, Jenkins
 - **Databases**: MySQL, Oracle, DB2, Marklogic
-- **Other**: REST APIs, Microservices, Cloud (AWS), Copilot
+- **Other**: REST APIs, Microservices, Cloud (AWS), Structured prompt to generate code, Technical Project Management
 
 ---
 
