@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sourav!
 
-Experienced Software Engineer | Java Specialist | 20+ Years in the IT Industry
+Experienced Software Engineer | Java microservices developer | Technical Project Manager | 20+ Years in the IT Industry
 
 ---
 
