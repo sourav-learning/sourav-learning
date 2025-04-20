@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sourav!
 
-Experienced Software Engineer | Java microservices developer | Technical Project Manager | 20+ Years in the IT Industry
+20+ Years in the IT Industry | Experienced Software Engineer | Java microservices developer | Technical Project Manager
 
 ---
 
@@ -18,12 +18,13 @@ Experienced Software Engineer | Java microservices developer | Technical Project
 - **Frameworks**: Spring Boot, Hibernate, Struts
 - **Tools**: Maven, Jenkins
 - **Databases**: MySQL, Oracle, DB2, Marklogic
-- **Other**: REST APIs, Microservices, Cloud (AWS), Structured prompt to generate code, Technical Project Management
+- **Other**: REST APIs, Microservices, Cloud (AWS), AI Prompt engineer to generate or debug code, Technical Project Management
 
 ---
 
 ### 🏆 Achievements
 
+- 🚀 In past 20 years, delivered more than 10 development projects being involved directly in coding.
 - 🚀 Successfully led more than 5 projects as lead engineer and Technical Project Manager.
   
 
