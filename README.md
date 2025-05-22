@@ -14,7 +14,7 @@
 
 ### 💼 Skills
 
-- **Languages**: Java, SQL
+- **Languages**: Java, Python (basic), SQL
 - **Frameworks**: Spring Boot, Hibernate, Struts
 - **Tools**: Maven, Jenkins
 - **Databases**: MySQL, Oracle, DB2, Marklogic
