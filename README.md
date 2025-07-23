@@ -8,7 +8,7 @@
 
 - 🌟 **20+ years of experience** in software development, specializing in Java and enterprise solutions.
 - 🚀 Passionate about building scalable, high-performance applications.
-- 🏢 Currently working at IBM Consulting, leading projects in Spring boot microservices and using copilot generated code extensively.
+- 🏢 Currently working at IBM Consulting, leading projects in Spring boot microservices and using copilot extensively to generate Java Code and test cases.
 
 ---
 
